@@ -1,2 +1,2 @@
-# Lista-de-exerc-cios-n-mero-2
+# Lista de exercicios (LIP)
 É só minha lista de exercício de LIP/ECT
